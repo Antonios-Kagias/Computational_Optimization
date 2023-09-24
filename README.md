@@ -1,2 +1,2 @@
-# Computational_Optimization
+# Computational Optimization
 Optimization algorithms and heuristics
