@@ -1,0 +1,16 @@
+NAME : ESC07.sop.opt.tour
+COMMENT : Optimum solution of ESC07.sop
+TYPE : TOUR
+DIMENSION : 9
+TOUR_SECTION
+1
+2
+5
+8
+3
+7
+6
+4
+9
+-1
+EOF
