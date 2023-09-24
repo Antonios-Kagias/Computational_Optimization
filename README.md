@@ -1,5 +1,4 @@
 # Computational Optimization
-Optimization algorithms and heuristics
 
 The projects in this repository were created while working on the course Computational Optimization for my postgraduate studies. They include the following:
 
